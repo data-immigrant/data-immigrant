@@ -3,12 +3,20 @@
 For more context: [Home Site](https://www.dataimmigrant.com/)
 
 <p align="center">
-  <img src="./img/image.png" alt="Data Immigrant's Picture" width="150" style="border-radius: 50%;">
+  <img src="./img/image.png" alt="Data Immigrant's Picture"width="150" style="border-radius: 50%;">
 </p>
 
-Pitch 
+## What we do - Simplified!
 
 Imagine a continent-sized puzzle where each piece represents a fragment of vital information about our planet. From the bustling farms that feed millions to the delicate ecosystems that sustain life, every plot of land tells a story. But to truly understand these tales, we need consistency, precision, and innovation. Let's Explore.
+
+## The Data Immigrant Universe
+
+<p align="center">
+  <img src="./img/universe.jpg" alt="Data Immigrant's Picture"">
+</p>
+
+
 
 We have extended our service offering with a new product, please see the Solution Architecture below: This is all Made possible from Google Start Up Fund. Thank you for supporting our work!
 
@@ -54,6 +62,7 @@ a well-detailed architecture of a recommendation system built natively on Google
                            | Engine or   |
                            | GKE         |
                            +-------------+
+
 
 
 
