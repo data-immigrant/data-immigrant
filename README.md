@@ -13,7 +13,7 @@ Imagine a continent-sized puzzle where each piece represents a fragment of vital
 ## The Data Immigrant Universe
 
 <p align="center">
-  <img src="./img/universe.jpg" alt="Data Immigrant's Picture"">
+  <img src="./img/The Data Immigrant Universe4.png" alt="Data Immigrant's Picture"">
 </p>
 
 
